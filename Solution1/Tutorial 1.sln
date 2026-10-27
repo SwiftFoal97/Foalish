@@ -7,11 +7,13 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.1 Define sum", "Project1\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Scan F return product", "Project3\Project3.vcxproj", "{96D1D16D-4FE1-4337-B369-4450D4DC1782}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project4", "Project4\Project4.vcxproj", "{428DD50D-3F2A-4AC1-932A-704A229244D0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Return Mark precentage", "Project4\Project4.vcxproj", "{428DD50D-3F2A-4AC1-932A-704A229244D0}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project5", "Project5\Project5.vcxproj", "{D5726812-9816-47F2-A4D0-00A9DD75AFE7}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hello World", "Hello World\Hello World.vcxproj", "{1DB22BBA-3507-4C60-B26F-0319165EBD57}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Triangle", "Triangle\Triangle.vcxproj", "{2FEE217F-B218-45CB-A510-94CBD4F00FDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,14 @@ Global
 		{1DB22BBA-3507-4C60-B26F-0319165EBD57}.Release|x64.Build.0 = Release|x64
 		{1DB22BBA-3507-4C60-B26F-0319165EBD57}.Release|x86.ActiveCfg = Release|Win32
 		{1DB22BBA-3507-4C60-B26F-0319165EBD57}.Release|x86.Build.0 = Release|Win32
+		{2FEE217F-B218-45CB-A510-94CBD4F00FDD}.Debug|x64.ActiveCfg = Debug|x64
+		{2FEE217F-B218-45CB-A510-94CBD4F00FDD}.Debug|x64.Build.0 = Debug|x64
+		{2FEE217F-B218-45CB-A510-94CBD4F00FDD}.Debug|x86.ActiveCfg = Debug|Win32
+		{2FEE217F-B218-45CB-A510-94CBD4F00FDD}.Debug|x86.Build.0 = Debug|Win32
+		{2FEE217F-B218-45CB-A510-94CBD4F00FDD}.Release|x64.ActiveCfg = Release|x64
+		{2FEE217F-B218-45CB-A510-94CBD4F00FDD}.Release|x64.Build.0 = Release|x64
+		{2FEE217F-B218-45CB-A510-94CBD4F00FDD}.Release|x86.ActiveCfg = Release|Win32
+		{2FEE217F-B218-45CB-A510-94CBD4F00FDD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
