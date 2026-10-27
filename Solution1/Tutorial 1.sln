@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
 VisualStudioVersion = 18.9.12128.139
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project1", "Project1\Project1.vcxproj", "{D5C3E5DF-E60C-49C6-B075-CE3DA9AB3773}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.1 Define sum", "Project1\Project1.vcxproj", "{D5C3E5DF-E60C-49C6-B075-CE3DA9AB3773}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project2", "Project2\Project2.vcxproj", "{D386F098-F6ED-4122-BAEA-D528883D0C97}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project3", "Project3\Project3.vcxproj", "{96D1D16D-4FE1-4337-B369-4450D4DC1782}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Scan F return product", "Project3\Project3.vcxproj", "{96D1D16D-4FE1-4337-B369-4450D4DC1782}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project4", "Project4\Project4.vcxproj", "{428DD50D-3F2A-4AC1-932A-704A229244D0}"
 EndProject
@@ -31,14 +29,6 @@ Global
 		{D5C3E5DF-E60C-49C6-B075-CE3DA9AB3773}.Release|x64.Build.0 = Release|x64
 		{D5C3E5DF-E60C-49C6-B075-CE3DA9AB3773}.Release|x86.ActiveCfg = Release|Win32
 		{D5C3E5DF-E60C-49C6-B075-CE3DA9AB3773}.Release|x86.Build.0 = Release|Win32
-		{D386F098-F6ED-4122-BAEA-D528883D0C97}.Debug|x64.ActiveCfg = Debug|x64
-		{D386F098-F6ED-4122-BAEA-D528883D0C97}.Debug|x64.Build.0 = Debug|x64
-		{D386F098-F6ED-4122-BAEA-D528883D0C97}.Debug|x86.ActiveCfg = Debug|Win32
-		{D386F098-F6ED-4122-BAEA-D528883D0C97}.Debug|x86.Build.0 = Debug|Win32
-		{D386F098-F6ED-4122-BAEA-D528883D0C97}.Release|x64.ActiveCfg = Release|x64
-		{D386F098-F6ED-4122-BAEA-D528883D0C97}.Release|x64.Build.0 = Release|x64
-		{D386F098-F6ED-4122-BAEA-D528883D0C97}.Release|x86.ActiveCfg = Release|Win32
-		{D386F098-F6ED-4122-BAEA-D528883D0C97}.Release|x86.Build.0 = Release|Win32
 		{96D1D16D-4FE1-4337-B369-4450D4DC1782}.Debug|x64.ActiveCfg = Debug|x64
 		{96D1D16D-4FE1-4337-B369-4450D4DC1782}.Debug|x64.Build.0 = Debug|x64
 		{96D1D16D-4FE1-4337-B369-4450D4DC1782}.Debug|x86.ActiveCfg = Debug|Win32
