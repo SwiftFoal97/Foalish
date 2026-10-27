@@ -8,7 +8,7 @@ int main(int argc, char** argv)
 {
     int a;
     int b;
-
+    int sum;
     a = 5;
 
     printf("The value of a is %d\n", a);
@@ -16,7 +16,9 @@ int main(int argc, char** argv)
     printf("Please enter b:\n");
     scanf("%d", &b);
 
-    printf("The value of b is %d\n", b);
 
+    printf("The value of b is %d\n", b);
+    sum = a + b;
+    printf("The sum of a and b is %d\n", sum);
     exit(0);
 }

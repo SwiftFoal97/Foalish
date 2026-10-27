@@ -24,6 +24,7 @@
     <ProjectGuid>{d5c3e5df-e60c-49c6-b075-ce3da9ab3773}</ProjectGuid>
     <RootNamespace>Project1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>1.1 Define sum</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
