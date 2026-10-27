@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hello World", "Hello World\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Triangle", "Triangle\Triangle.vcxproj", "{2FEE217F-B218-45CB-A510-94CBD4F00FDD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Circle", "Circle\Circle.vcxproj", "{254E33BE-0871-4C2A-B800-CD233CB0B0D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{2FEE217F-B218-45CB-A510-94CBD4F00FDD}.Release|x64.Build.0 = Release|x64
 		{2FEE217F-B218-45CB-A510-94CBD4F00FDD}.Release|x86.ActiveCfg = Release|Win32
 		{2FEE217F-B218-45CB-A510-94CBD4F00FDD}.Release|x86.Build.0 = Release|Win32
+		{254E33BE-0871-4C2A-B800-CD233CB0B0D5}.Debug|x64.ActiveCfg = Debug|x64
+		{254E33BE-0871-4C2A-B800-CD233CB0B0D5}.Debug|x64.Build.0 = Debug|x64
+		{254E33BE-0871-4C2A-B800-CD233CB0B0D5}.Debug|x86.ActiveCfg = Debug|Win32
+		{254E33BE-0871-4C2A-B800-CD233CB0B0D5}.Debug|x86.Build.0 = Debug|Win32
+		{254E33BE-0871-4C2A-B800-CD233CB0B0D5}.Release|x64.ActiveCfg = Release|x64
+		{254E33BE-0871-4C2A-B800-CD233CB0B0D5}.Release|x64.Build.0 = Release|x64
+		{254E33BE-0871-4C2A-B800-CD233CB0B0D5}.Release|x86.ActiveCfg = Release|Win32
+		{254E33BE-0871-4C2A-B800-CD233CB0B0D5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
